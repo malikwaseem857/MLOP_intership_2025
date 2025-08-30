@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/704691062542939525/389c17c75e354516800aea23dfd54bd4/artifacts
+end_time: 1756532666506
+entry_point_name: ''
+experiment_id: '704691062542939525'
+lifecycle_stage: active
+run_id: 389c17c75e354516800aea23dfd54bd4
+run_name: masked-skunk-149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756532666217
+status: 3
+tags: []
+user_id: Waseem Akram
